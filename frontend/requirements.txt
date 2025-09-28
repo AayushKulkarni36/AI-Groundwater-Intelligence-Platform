@@ -1,0 +1,10 @@
+pandas
+flask
+flask-cors
+matplotlib
+streamlit-folium
+scikit-learn
+openai>=1.0.0
+requests
+SpeechRecognition
+pyaudio

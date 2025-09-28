@@ -1,0 +1,26 @@
+State,District,Year,Recharge (MCM),Extraction (MCM),Stage (%),Category
+Maharashtra,Pune,2018,1000,850,85,Semi-Critical
+Maharashtra,Pune,2019,1020,920,90,Critical
+Maharashtra,Pune,2020,1050,1100,105,Over-Exploited
+Maharashtra,Pune,2021,1080,1150,106,Over-Exploited
+Maharashtra,Pune,2022,1100,1160,105,Over-Exploited
+Maharashtra,Nashik,2018,1200,700,58,Safe
+Maharashtra,Nashik,2019,1220,750,61,Safe
+Maharashtra,Nashik,2020,1250,900,72,Semi-Critical
+Maharashtra,Nashik,2021,1280,1000,78,Semi-Critical
+Maharashtra,Nashik,2022,1300,1200,92,Critical
+Gujarat,Ahmedabad,2018,1500,1000,67,Safe
+Gujarat,Ahmedabad,2019,1520,1150,76,Semi-Critical
+Gujarat,Ahmedabad,2020,1550,1350,87,Semi-Critical
+Gujarat,Ahmedabad,2021,1570,1450,92,Critical
+Gujarat,Ahmedabad,2022,1600,1700,106,Over-Exploited
+Rajasthan,Jaipur,2018,1800,1400,78,Semi-Critical
+Rajasthan,Jaipur,2019,1850,1600,86,Semi-Critical
+Rajasthan,Jaipur,2020,1880,1700,90,Critical
+Rajasthan,Jaipur,2021,1900,1850,97,Critical
+Rajasthan,Jaipur,2022,1950,2050,105,Over-Exploited
+Karnataka,Bengaluru,2018,1100,600,55,Safe
+Karnataka,Bengaluru,2019,1120,650,58,Safe
+Karnataka,Bengaluru,2020,1150,700,61,Safe
+Karnataka,Bengaluru,2021,1180,800,68,Safe
+Karnataka,Bengaluru,2022,1200,950,79,Semi-Critical

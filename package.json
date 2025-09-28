@@ -1,0 +1,14 @@
+{
+    "name": "groundwater-chatbot",
+    "version": "1.0.0",
+    "description": "Groundwater chatbot project",
+    "main": "index.js",
+    "scripts": {
+        "start": "concurrently \"venv\\Scripts\\python.exe backend\\app.py\" \"venv\\Scripts\\streamlit.exe run frontend\\streamlit_app.py\""
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "concurrently": "^8.0.1"
+    }
+}
