@@ -7,4 +7,4 @@ scikit-learn
 openai>=1.0.0
 requests
 SpeechRecognition
-pyaudio
+gunicorn
