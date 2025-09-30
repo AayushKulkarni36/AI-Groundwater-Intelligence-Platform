@@ -18,7 +18,7 @@ except Exception:
     SR_AVAILABLE = False
 
 # Config
-DEFAULT_BACKEND_URL = os.environ.get('BACKEND_URL', 'http://127.0.0.1:5000')
+DEFAULT_BACKEND_URL = os.environ.get("BACKEND_URL", "https://ai-groundwater-intelligence-platform.onrender.com")
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DATA_PATH = os.path.join(ROOT_DIR, 'data', 'groundwater_data.csv')
 
