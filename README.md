@@ -21,7 +21,9 @@ The AI Groundwater Intelligence Platform provides government agencies, water res
 - **Scalable Architecture**: Modular backend design supporting multiple data sources
 - **Professional UI**: Dashboard-style interface with responsive design
 - 
-## Prototype: https://ai-groundwater-intelligence-platform-1.onrender.com
+## Prototype
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-blue?logo=render)](https://ai-groundwater-intelligence-platform-1.onrender.com)
+
 
 ## Technology Stack
 
@@ -75,22 +77,28 @@ The AI Groundwater Intelligence Platform provides government agencies, water res
 
 
 ## Project Structure
+<details>
+  <summary><strong>Project structure</strong></summary>
+   
+   ai-groundwater-platform/
+   ├── backend/                    # Flask API server
+   │   ├── app.py                 # Main application file
+   │   ├── ml/                    # Machine learning modules
+   │   │   ├── forecasting.py     # Prediction models
+   │   │   └── simulation.py      # Policy simulation logic
+   │   └── utils/                 # Utility functions
+   ├── frontend/                  # Streamlit web interface
+   │   ├── streamlit_app.py      # Main UI application
+   │   └── assets/               # Static assets
+   ├── data/                     # Dataset storage
+   │   └── groundwater_data.csv  # Demo dataset
+   ├── requirements.txt          # Python dependencies
+   ├── README.md                # Project documentation
+   └── .gitignore              # Git ignore rules
 
-ai-groundwater-platform/
-├── backend/                    # Flask API server
-│   ├── app.py                 # Main application file
-│   ├── ml/                    # Machine learning modules
-│   │   ├── forecasting.py     # Prediction models
-│   │   └── simulation.py      # Policy simulation logic
-│   └── utils/                 # Utility functions
-├── frontend/                  # Streamlit web interface
-│   ├── streamlit_app.py      # Main UI application
-│   └── assets/               # Static assets
-├── data/                     # Dataset storage
-│   └── groundwater_data.csv  # Demo dataset
-├── requirements.txt          # Python dependencies
-├── README.md                # Project documentation
-└── .gitignore              # Git ignore rules
+</details>
+
+
 
 
 
