@@ -1,4 +1,4 @@
-## Prototype: https://ai-groundwater-intelligence-platform-1.onrender.com
+
 # AI Groundwater Intelligence Platform
 
 A comprehensive Smart India Hackathon 2025 prototype showcasing an AI-driven chatbot and analytics platform for groundwater monitoring, forecasting, and decision support. The system integrates a Flask backend with a Streamlit frontend, designed to support sustainable water resource management through data-driven insights.
@@ -20,6 +20,8 @@ The AI Groundwater Intelligence Platform provides government agencies, water res
 - **Real-time Analytics**: Dynamic data processing and visualization updates
 - **Scalable Architecture**: Modular backend design supporting multiple data sources
 - **Professional UI**: Dashboard-style interface with responsive design
+- 
+## Prototype: https://ai-groundwater-intelligence-platform-1.onrender.com
 
 ## Technology Stack
 
@@ -89,5 +91,6 @@ ai-groundwater-platform/
 ├── requirements.txt          # Python dependencies
 ├── README.md                # Project documentation
 └── .gitignore              # Git ignore rules
+
 
 
